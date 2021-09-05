@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MobigicAssignment</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="txtBtn_login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="Upload_File">Upload File</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="view_file">View Files</string>
+    <string name="file_name">File Name</string>
+</resources>
